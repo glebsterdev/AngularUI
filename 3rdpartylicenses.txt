@@ -89,6 +89,8 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/core
+
 @angular/material/datepicker
 
 @angular/material/dialog
@@ -98,6 +100,8 @@ THE SOFTWARE.
 @angular/material/grid-list
 
 @angular/material/icon
+
+@angular/material/select
 
 @angular/material/snack-bar
 
